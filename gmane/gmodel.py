@@ -4,7 +4,7 @@ import re
 import zlib
 from datetime import datetime, timedelta
 
-# Not all systems have this
+# nem todos sistemas tem esse parser - check
 try:
     import dateutil.parser as parser
 except:
@@ -135,6 +135,7 @@ def parseheader(hdr, allsenders=None):
     if sender is None or sent_at is None or subject is None or guid is None :
         return None
     return (guid, sender, subject, sent_at)
+
 
 conn = sqlite3.connect('index.sqlite')
 cur = conn.cursor()

@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 import re
 from datetime import datetime, timedelta
 
-# Not all systems have this so conditionally define parser
+# nem todos sistemas tem esse parser - check
 try:
     import dateutil.parser as parser
 except:

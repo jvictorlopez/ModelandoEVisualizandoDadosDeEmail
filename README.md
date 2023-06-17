@@ -1,7 +1,7 @@
-# ModelandoEVisualizandoDadosDeEmail
+# Modelando e Visualizando Dados de Email
 Tarefa final da Trilha de Honras da minha especialização ''Python For Everybody'' da Universidade de Michigan. Nesse projeto, trabalho para recuperar e analisar dados de e-mails do projeto de código open-source Sakai.
 Além disso, o projeto inclui duas visualizações essenciais: uma nuvem de palavras para visualizar a distribuição de frequência e uma linha do tempo que mostra como os dados se modificam ao longo do tempo.
-Na construção do projeto, são utilizadas tecnologias como Python, SQLite e Web Scraping.
+Na construção do projeto, são utilizadas tecnologias como Python, SQLite e Web Scraping. Certificado de Conclusão (Com Honras): https://www.coursera.org/account/accomplishments/certificate/ELZCSB9P93R8
 
 ![GmaneMap](https://github.com/jvictorlopez/ModelandoEVisualizandoDadosDeEmail/assets/124679867/defda317-8c4b-4efa-b812-ff561a68eea0)
 
